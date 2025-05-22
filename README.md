@@ -1,1 +1,2 @@
 # Snaker-Zero
+My idea is to create a full flipper zero from scratch to better fully understand how it works and enhance its functions like bigger battery with longer time and wider sub-GHz range and different case design (i guess a snake shape would be cool). With ESP32 inside to run wifi hacks. Also i will use unleashed firmware because it is the most one which can run easily on custom flippers. and also use a STM32WB55 MCU as same as flipper zero MCU. 
